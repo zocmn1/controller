@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/face_purp.svg);
     position: absolute;
 }
 
