@@ -1,6 +1,5 @@
-/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/base_purp.svg);
+    background: url(ps4-assets/base.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -157,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/face_purp.svg);
+    background: url(ps4-assets/face.svg);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +196,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/sticks_purp.svg);
+    background: url(ps4-assets/sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/dpad_purp.svg);
+    background: url(ps4-assets/dpad.svg);
     position: absolute;
 }
 
