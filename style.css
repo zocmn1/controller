@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(ps4-assets/base.svg);
+    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/base_purp.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svg);
+    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/face_purp.svg);
 }
 
 .ds4 .button.pressed {
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://raw.githubusercontent.com/zocmn1/controller/main/dpad_purp.svg);
     position: absolute;
 }
 
